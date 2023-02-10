@@ -20,3 +20,7 @@
 4. Luego de modificar de nuevo "Modificacón trabajo colaborativo parteErik"
 5. Git push
 
+
+*CARLOS MESTAS (pon tu procedimiento)
+
+
