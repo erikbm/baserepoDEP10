@@ -3,8 +3,8 @@
 ![DataPath](images/DataPath.png)
 
 # COLABORADORES ACTIVIDAD 02 MÓDULO 2:
--CHINGA CORNEJO CARLOS JORDAN
--ERIK ALEXANDER BELLIDO MAMANI
+-CHINGA CORNEJO CARLOS JORDAN\
+-ERIK ALEXANDER BELLIDO MAMANI\
 -MESTAS ESCARCENA CARLOS ALBERTO
 
 
@@ -24,7 +24,7 @@
 5. Git push
 
 
-*CARLOS MESTAS (pon tu procedimiento)
+*CARLOS ALBERTO MESTAS ESCARCENA:   
 1. Creación del archivo parteCarlos.py y modificación README.md
 2. Git add ., git commit -m "Creación archivo parteCarlos.py", git push
 3. Modificación del archivo parteCarlos.py y modificación README.md
