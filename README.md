@@ -22,5 +22,6 @@
 
 
 *CARLOS MESTAS (pon tu procedimiento)
-
+1. Creación del archivo parteCarlos.py
+2. Git add ., git commit -m "Creación archivo parteCarlos.py", git push
 
