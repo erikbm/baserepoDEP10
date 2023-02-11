@@ -1,9 +1,12 @@
 # baserepoDEP10
 
+![DataPath](images/DataPath.png)
+
 # COLABORADORES ACTIVIDAD 02 MÓDULO 2:
 -CHINGA CORNEJO CARLOS JORDAN
 -ERIK ALEXANDER BELLIDO MAMANI
--CARLOS MESTAS (pon tu nombre completo)
+-MESTAS ESCARCENA CARLOS ALBERTO
+
 
 #TRABAJO QUE HEMOS REALIZADO
 *PARTE CARLOS JORDAN CHINGA CORNEJO: 
@@ -22,6 +25,8 @@
 
 
 *CARLOS MESTAS (pon tu procedimiento)
-1. Creación del archivo parteCarlos.py
+1. Creación del archivo parteCarlos.py y modificación README.md
 2. Git add ., git commit -m "Creación archivo parteCarlos.py", git push
-
+3. Modificación del archivo parteCarlos.py y modificación README.md
+4. Agregar imagen
+5. Git add ., git commit -m "Modificación archivo parteCarlos.py", git push
